@@ -1,1 +1,2 @@
 # NaSet
+## In this study, we constructed a benchmark dataset named NaSet by systematically integrating 100 experimentally resolved protein-nucleic acid complex structures from the PDB database, and established a multi-dimensional evaluation framework. Based on this dataset, we systematically evaluated four deep learning algorithms, including AlphaFold3, Chai-1, HelixFold3, and Protenix, as well as two physically-driven docking methods, HDOCK and HDOCK_NT. Three key metrics, RMSD, TM-score and LDDT, are used for multi-dimensional analysis ##
